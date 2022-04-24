@@ -1,0 +1,10 @@
+Soldier
+Carter
+Human
+100
+500
+Archer
+Henry
+Elf
+100
+500
